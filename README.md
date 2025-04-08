@@ -1,4 +1,4 @@
-Updated: 02.2025  
+Updated: 04.2025  
 Script created by Salvador Camacho
 
 This script was created with best practices, so it is more resilient, such as:
